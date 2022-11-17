@@ -1,0 +1,9 @@
+{
+  "realm": "myRealmDemo",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "react-client",
+  "enable-cors": true,
+  "public-client": true,
+  "confidential-port": 0
+}
